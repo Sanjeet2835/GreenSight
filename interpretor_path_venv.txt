@@ -1,0 +1,5 @@
+/home/sanjeet/ai_workspace/.venv/bin/python
+
+activate venv: 
+source /home/sanjeet/ai_workspace/.venv/bin/activate
+
