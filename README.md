@@ -90,7 +90,6 @@ Streamlit Dashboard (Visualization + Alerts)
 | Model | PyTorch (custom ResNet-9) |
 | UI & Pipeline | Streamlit |
 | Edge Camera | ESP32-CAM |
-| Experiment Tracking | — |
 | Dataset | PlantVillage (augmented) |
 
 ---
